@@ -1,0 +1,49 @@
+#liked_songs{
+
+    margin-top: 85px;
+
+}
+#blocco_canzone{
+
+    margin-bottom: 10px; 
+    justify-items: center;
+
+}
+#general{
+display: flex;
+margin-top: -573px;
+
+
+}
+
+#testo_canzone{
+
+align-self: center;
+
+
+}
+
+#profilo2{
+
+margin-right: 55px;
+
+
+}
+
+
+
+
+h1{
+
+color: whitesmoke;
+
+font-size: 2.55rem;
+}
+
+#song-container{
+
+display: flex;
+flex-direction: column;
+
+
+}

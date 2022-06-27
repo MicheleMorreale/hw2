@@ -1,0 +1,69 @@
+
+    #container-podcast{
+
+      display: flex;
+      flex-direction: row;
+      justify-content:space-between;
+      justify-items:space-between;
+      margin: auto;
+      
+          }
+          
+    .hidden{
+      display: none;
+    }
+      
+          
+          .show{
+      
+            display: flex;
+            flex-direction: column;
+            margin: auto;
+            width: 400px;
+            height: 400px;
+            text-align: center;
+            font-size: 1.25rem;            
+                }
+
+                #sezione_podcast{
+
+                  margin-bottom: 230px;
+
+                }
+
+                #container-uscite{
+
+                  display: flex;
+                  flex-direction: row;
+                  justify-content:space-between;
+                  justify-items:space-between;
+                  margin: auto;
+                  overflow-x: scroll;
+                  
+                      }
+                  
+                      
+                      .uscita{
+                  
+                        display: flex;
+                        flex-direction: column;
+                        margin: auto;
+                        width: 400px;
+                        height: 400px;
+                        text-align: center;
+                        font-size: 1rem;            
+                            }
+            
+                            #sezione_uscite{
+            
+                              margin-bottom: 230px;
+            
+                            }
+
+
+                            h1{
+
+                              text-align: center;
+                              margin: auto;
+
+                            }
